@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phillip Friis-Alstrup
 - 👀 I’m interested in font-end development, database design and some back-end development. 
-- 🌱 I’m currently learning JavaScript, Nodejs, VueJs and MySQL/MongoDB.
+- 🌱 I’m currently learning C#, JavaScript, Nodejs, VueJs and MySQL/MongoDB.
 - 📫 How to reach me: Phillip.friis.alstrup@gmail.com
 
 <!---
