@@ -1,9 +1,23 @@
-- 👋 Hi, I’m Phillip Friis-Alstrup
-- 👀 I’m interested in font-end development, database design and some back-end development. 
-- 🌱 I’m currently learning C#, JavaScript, Nodejs, VueJs and MySQL/MongoDB.
+### Hi there 👋, I’m Phillip 👨‍💻
+
+-----
+
+#### ✨ Quick Facts
+
+- 🎓 I’m currently studying Computer science to become a Software Engineer.
+- 🌱 I’m currently learning ASP.NET, SQL Server, Node.js & Unit-Testing.
 - 📫 How to reach me: Phillip.friis.alstrup@gmail.com
 
-<!---
-Friis-Alstrup/Friis-Alstrup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-----
+
+#### 🍵 My Stack
+##### Frameworks
+ - React, Next.js, Svelte & Laravel.
+
+##### Languages
+- C#, JavaScript, HTML, CSS, PHP & SQL.
+
+##### Tools
+- Docker, VS Code / Visual Studio, PhpStorm & Figma.
+
+-----
