@@ -2,7 +2,7 @@
 
 -----
 
-#### ✨ Quick Facts
+### ✨ Quick Facts
 
 - 🎓 I’m currently studying Computer science to become a Software Engineer.
 - 🌱 I’m currently learning ASP.NET, SQL Server, Node.js & Unit-Testing.
@@ -10,14 +10,14 @@
 
 -----
 
-#### 🍵 My Stack
-##### Frameworks
+### 🍵 My Stack
+#### Frameworks
  - React, Next.js, Svelte & Laravel.
 
-##### Languages
+#### Languages
 - C#, JavaScript, HTML, CSS, PHP & SQL.
 
-##### Tools
+#### Tools
 - Docker, VS Code / Visual Studio, PhpStorm & Figma.
 
 -----
