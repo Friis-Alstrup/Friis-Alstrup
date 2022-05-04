@@ -12,7 +12,7 @@
 
 ### 🍵 My Stack
 #### Frameworks
- - React, Nodejs & Laravel.
+ - React, Nodejs, Laravel & WPF.
 
 #### Languages
 - C#, JavaScript, HTML, CSS, PHP & SQL.
