@@ -12,12 +12,12 @@
 
 ### 🍵 My Stack
 #### Frameworks
- - React, Next.js, Svelte & Laravel.
+ - React, Nodejs & Laravel.
 
 #### Languages
 - C#, JavaScript, HTML, CSS, PHP & SQL.
 
 #### Tools
-- Docker, VS Code / Visual Studio, PhpStorm & Figma.
+- Docker, VS Code / Visual Studio & Figma.
 
 -----
